@@ -16,6 +16,10 @@ This is a **Next.js 15 + TypeScript** web app scaffold that powers everything fr
 - **UI Primitives:** Radix UI, Lucide Icons
 
 ---
+## 🎥 Demo
+
+👉 Check it out live here:
+https://unimate-housing.vercel.app/
 
 ## 📚 Table of Contents
 
